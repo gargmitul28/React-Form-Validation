@@ -1,5 +1,6 @@
 ![1](https://user-images.githubusercontent.com/68656122/124538105-b324cb80-de38-11eb-888d-2f7ea361c130.png)
 
+![2](https://user-images.githubusercontent.com/68656122/124538160-c899f580-de38-11eb-9299-af6b21a0a107.png)
 
 
 # Getting Started with Create React App
